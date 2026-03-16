@@ -135,8 +135,8 @@ CCTV13 自动播放监控脚本 - 强制全屏版
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/cctv-autoplay.git
-   cd cctv-autoplay
+   git clone https://github.com/newborne/auto-cctv13.git
+   cd auto-cctv13
    ```
 
 2. **运行安装脚本**
@@ -432,7 +432,7 @@ class CCTV13AutoPlayer:
 ```
 MIT License
 
-Copyright (c) 2026 Your Name
+Copyright (c) 2026 newborne
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -472,6 +472,7 @@ SOFTWARE.
 - **Email**: newborne@foxmail.com
 - **GitHub**: github.com/newborne
 - **Issues**: 欢迎提交问题和建议
+- **Repository**: https://github.com/newborne/auto-cctv13
 
 ---
 
@@ -487,10 +488,10 @@ SOFTWARE.
 
 **如果觉得这个项目对你有帮助，请给一个 ⭐ Star！**
 
-[![Star](https://img.shields.io/github/stars/your-username/cctv-autoplay?style=social)](https://github.com/your-username/cctv-autoplay)
+[![Star](https://img.shields.io/github/stars/newborne/auto-cctv13?style=social)](https://github.com/newborne/auto-cctv13)
 
 </div>
 
 ---
 
-**© 2026 Your Name. All rights reserved.**
+**© 2026 newborne. All rights reserved.**
